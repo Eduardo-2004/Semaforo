@@ -1,0 +1,25 @@
+header, main{
+    display: flex;
+    flex-direction:column;
+    text-align:center;
+    color:black;
+    font-weight:bold;
+    font-size:2rem;
+    gap:35px;
+
+
+}
+
+button{
+
+    position:relative;
+    text-align:center;   
+    background: linear-gradient( to bottom, red, yellow, green);
+    width: 120px; 
+    font-size: 20px;
+    cursor:pointer; 
+    font-weight: bold;
+    
+
+ } 
+ 
